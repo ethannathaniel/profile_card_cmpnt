@@ -33,6 +33,7 @@
       justify-content: center;
       align-items: center;
       position: relative;
+      overflow: hidden;
     }
     .card-container {
       width: 350px;
@@ -40,6 +41,7 @@
       overflow: hidden;
       background-color: white;
       text-align: center;
+      position: relative;
     }
     .card-banner {
       background-image: url(./images/bg-pattern-card.svg);
@@ -115,12 +117,26 @@
       position: absolute;
     }
     .c1 {
-      top: 0;
-      left: 0;
+      top: -344px;
+      left: -80px;
     }
     .c2 {
-      bottom: 0;
-      right: 0;
+      bottom: -464px;
+      right: -98px;
+    }
+    @media (max-width: 640px) {
+      .circles img {
+        height: auto;
+        width: 520px;
+      }
+      .c1 {
+        top: -212px;
+        left: -293px;
+      }
+      .c2 {
+        bottom: -181px;
+        right: -301px;
+      }
     }
   </style>
 </head>
