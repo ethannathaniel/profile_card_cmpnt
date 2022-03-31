@@ -33,8 +33,8 @@ Mobile view;
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-css-grid-and-flexbox-S11jIAyQ9)
-- Live Site URL: [Add live site URL here](https://ethannathaniel.github.io/Stats_prvw_card_compnt/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-profile-card-component-css-flexbox-SJX__Fm75)
+- Live Site URL: [Add live site URL here](https://ethannathaniel.github.io/profile_card_cmpnt/)
 
 ### Built with
 
